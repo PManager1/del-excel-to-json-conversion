@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "excel-as-json": "^2.0.0",
+    "fs": "0.0.1-security",
     "xlsx": "^0.9.3"
   }
 }
